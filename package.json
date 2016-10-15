@@ -1,10 +1,10 @@
 {
-  "name": "yinliu1616.github.io",
+  "name": "skinny-bones-jekyll",
   "version": "1.0.0",
   "private": true,
-  "description": "Liu Yin's home page",
-  "author": "Liu Yin <yinliu1616@gmail.com>",
-  "homepage": "http://liuy.in/",
+  "description": "A Jekyll starter site",
+  "author": "Michael Rose <michael@mademistakes.com>",
+  "homepage": "http://mademistakes.com/",
   "license": "The MIT License (MIT)",
   "devDependencies": {
     "grunt": "~0.4.2",
