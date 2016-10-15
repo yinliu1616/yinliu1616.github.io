@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: wood-texture-1600x800.jpg
+  feature: xiaofeng_elephant_16_8.JPG
 ---
 
 <div class="tiles">
